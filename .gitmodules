@@ -1,0 +1,4 @@
+[submodule "minecraft-server-charts"]
+	path = minecraft-server-charts
+	url = https://github.com/Paul1365972/minecraft-server-charts.git
+    branch = master
